@@ -1,6 +1,0 @@
-Node 
-npm init -y
-npx tsc -init
-
-tsc -b // for compiling code
-node dist/index.js // to start the server
